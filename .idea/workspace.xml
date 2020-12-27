@@ -20,9 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ee79d05-ccc3-4078-a5c7-8956d7d3f85f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week03/main.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week03/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week03/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week04/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week04/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +51,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
   </component>
   <component name="RunManager" selected="Go Build.go build main.go">
@@ -95,21 +95,25 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="212" key="GridCell.Tab.0.bottom" timestamp="1608794294469">
+    <state x="520" y="290" key="#Go_Modules" timestamp="1609061311225">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.bottom/1440.-698.1440.2560/0.0.1440.900@0.0.1440.900" timestamp="1608794294469" />
-    <state width="1398" height="212" key="GridCell.Tab.0.center" timestamp="1608794294467">
+    <state x="520" y="290" key="#Go_Modules/0.0.1440.900@0.0.1440.900" timestamp="1609061311225" />
+    <state width="1398" height="211" key="GridCell.Tab.0.bottom" timestamp="1608794522770">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.center/1440.-698.1440.2560/0.0.1440.900@0.0.1440.900" timestamp="1608794294467" />
-    <state width="1398" height="212" key="GridCell.Tab.0.left" timestamp="1608794294465">
+    <state width="1398" height="211" key="GridCell.Tab.0.bottom/1440.-698.1440.2560/0.0.1440.900@0.0.1440.900" timestamp="1608794522770" />
+    <state width="1398" height="211" key="GridCell.Tab.0.center" timestamp="1608794522768">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.left/1440.-698.1440.2560/0.0.1440.900@0.0.1440.900" timestamp="1608794294465" />
-    <state width="1398" height="212" key="GridCell.Tab.0.right" timestamp="1608794294468">
+    <state width="1398" height="211" key="GridCell.Tab.0.center/1440.-698.1440.2560/0.0.1440.900@0.0.1440.900" timestamp="1608794522768" />
+    <state width="1398" height="211" key="GridCell.Tab.0.left" timestamp="1608794522766">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="212" key="GridCell.Tab.0.right/1440.-698.1440.2560/0.0.1440.900@0.0.1440.900" timestamp="1608794294468" />
+    <state width="1398" height="211" key="GridCell.Tab.0.left/1440.-698.1440.2560/0.0.1440.900@0.0.1440.900" timestamp="1608794522766" />
+    <state width="1398" height="211" key="GridCell.Tab.0.right" timestamp="1608794522769">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="211" key="GridCell.Tab.0.right/1440.-698.1440.2560/0.0.1440.900@0.0.1440.900" timestamp="1608794522769" />
   </component>
 </project>
